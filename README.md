@@ -1,1 +1,1 @@
-# python-flask
+# Emotion Detection Project
